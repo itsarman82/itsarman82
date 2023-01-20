@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsarman82
 - 👀 I’m interested in tech and gaming
-- 🌱 I’m currently learning backend web development 
-- 💞️ I’m looking to collaborate on any starter project
+- 🌱 I’m currently learning backend web and front end development 
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me wa.me/989199055146
 
 <!---
