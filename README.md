@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arman
-- 👀 I’m interested in tech and gaming stuff
-- 🌱 I’m currently learning stuff for devops
+- 👋 Hi, I’m Arman Sareskandi
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning dotnet developement
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me t.me/98919905514
 
